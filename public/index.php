@@ -12,7 +12,6 @@ use Gsb\controllers\FichesControlleur;
 use Gsb\controllers\InfoControlleur;
 use Gsb\controllers\ListeMoisControlleur;
 use Gsb\controllers\LoginControlleur;
-use Gsb\controllers\sControlleur;
 use Gsb\controllers\SupprimerControlleur;
 use Gsb\controllers\ValiderControlleur;
 
